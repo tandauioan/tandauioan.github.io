@@ -1,12 +1,5 @@
-# Sample Title
 
-## And Test Heading
+[About](about.md) | [Repositories](repositories.md)
 
-## Repositories
 
-* [Logging](https://github.com/tandauioan/logging)
-
-## About
-
-[About](about.md)
 
